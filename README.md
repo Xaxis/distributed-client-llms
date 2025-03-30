@@ -1,5 +1,7 @@
 # **Exploring the Practicality of a Distributed Client-Side LLM Framework**
 
+![Cover Photo](./cover-photo.png)
+
 ## **Abstract**
 
 Large Language Models (LLMs) continue to evolve rapidly, powering a broad spectrum of applications ranging from conversational agents to advanced content generation tools. Most LLM architectures are deployed on powerful servers or cloud platforms due to their high computational and memory demands. However, recent advancements in client-side hardware acceleration and web technologies invite an intriguing alternative: distributing LLM inference workloads to end-user devices. This paper explores the key motivations behind building a distributed client-side LLM framework, analyzes the associated technical, economic, and ethical considerations, and proposes possible designs for real-world implementations. By examining current browser-based computational capabilities, model compression techniques, privacy advantages, and the architectural trade-offs of peer-to-peer (P2P) systems, we illustrate both the promise and the complexity of democratizing LLM inference through distributed, client-side execution.
