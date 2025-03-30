@@ -1,4 +1,4 @@
-# **Exploring the Need, Practicality, and Implementation of a Distributed Client-Side LLM Framework**
+# **Exploring the Practicality of a Distributed Client-Side LLM Framework**
 
 ## **Abstract**
 
